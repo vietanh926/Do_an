@@ -24,3 +24,6 @@ Và cuối cùng đã mở file trên colab
 
 
 Đăng nhập vào colab sau đó chọn Ctrl F9 và chạy toàn bộ đoạn code 
+
+Và đây là kết quả của chúng tôi 
+![image](https://github.com/vietanh926/Do_an/assets/78630737/11970317-7ce3-432f-b296-83ef3ac171de)
