@@ -15,6 +15,12 @@ https://github.com/vietanh926/Do_an/blob/main/visualization_and_ML.ipynb
 
 
 
-Kết quả 
+Và cuối cùng đã mở file trên colab 
 
-![image](https://github.com/vietanh926/-n/assets/78630737/e0115f35-5348-4051-8917-8e875f57f6c3)
+![image](https://github.com/vietanh926/Do_an/assets/78630737/e0c62100-2fdd-4f44-9e99-c4970365d32d)
+
+
+![image](https://github.com/vietanh926/Do_an/assets/78630737/e5dae9d0-6b39-4121-97cc-e45f60c7f08e)
+
+
+Đăng nhập vào colab sau đó chọn Ctrl F9 và chạy toàn bộ đoạn code 
